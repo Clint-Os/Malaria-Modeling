@@ -1,0 +1,51 @@
+# ---------------------------
+# Python
+# ---------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# ---------------------------
+# R
+# ---------------------------
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# R package build files
+.Rcheck/
+
+# ---------------------------
+# VSCode
+# ---------------------------
+.vscode/
+
+# ---------------------------
+# OS files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Data / results (optional)
+# ---------------------------
+data/
+results/
+plots/
